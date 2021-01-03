@@ -10,11 +10,12 @@ The main library used in this section is chai.
 #### Exercises
 
 There are 25 exercises.
+
 The exercises are in the folder "tests"
 
 #### Solutions
 
-All solutions are in individual files for each exercise and can be found in the "SOLVED Exercises" folder
+All solutions are in individual files for each exercise and can be found in the "SOLVED-EXERCISES" folder.
 
 #### Final Test
 
